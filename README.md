@@ -1,4 +1,4 @@
-# Map-builder project
+# Map-builder
 
 Simple overview of use/purpose.
 
